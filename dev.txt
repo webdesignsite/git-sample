@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-12.04.2018
-javascript
-if else
-none
-=======
-12.04.2018 if else
-Valik
->>>>>>> new
